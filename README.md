@@ -1,1 +1,3 @@
-# Bunch of graphics files released under MIT license
+# Graphics
+
+A bunch of design files shared under MIT license
